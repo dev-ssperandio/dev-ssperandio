@@ -1,5 +1,8 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Sidney!
 
+- 🌱 I’m currently learning backend with Java and Kotlin
+- 👨‍💻 I'm looking for jobs as a junior developer
 <!--
 **dev-ssperandio/dev-ssperandio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
