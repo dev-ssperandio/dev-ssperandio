@@ -2,10 +2,10 @@
 ## Welcome to my Github profile.
 
 ## About Me :bust_in_silhouette:
-  Sou Tecnólogo em Análise e Desenvolvimento de Sistema pela Faculdade de Tecnologia de Jundiaí - "Deputado Ary Fossen" e sigo meus estudos especializados na área de desenvolvimento backend utilizando as linguagens de programação Java e Kotlin.
-  Estou em busca de ingressar no mercado de tecnologia como desenvolvedor backend para agregar valor, trazer o bem-estar e melhorias para a sociedade com essas ferramentas.
-  Minha experiência na área de tecnologia foi através do estágio onde por seis meses prestei serviços para a ART IT Intelligent Technollogy inicialmente na áre de Ciencia de Dados utilizando a linguagem Python criando programar para trarar os dados da empresa passando para Desenvolvimento Web utilizando a linguagem PHP e trabalhando com frontend para contribuir com o desenvolvimento da rede social interna para os colaboradores.
-  Moro na cidade de Jundiaí, São Paulo, Brasil :flag_br:
+  I am a Technologist in System Analysis and Development from the Jundiaí Faculty of Technology - "Deputado Ary Fossen", and I am pursuing specialized studies in the backend development area using the Java and Kotlin programming languages.
+I am seeking to enter the technology market as a backend developer to add value, bring well-being, and improvements to society with these tools.
+My experience in the technology field was through an internship where for six months I provided services to ART IT Intelligent Technology initially in the area of Data Science using the Python language to create programs to process company data, then transitioning to Web Development using the PHP language, and working with frontend to contribute to the development of the internal social network for employees.
+I live in the city of Jundiaí, São Paulo, Brazil :flag_br:
 
 📫 How to reach me:
 <div>
